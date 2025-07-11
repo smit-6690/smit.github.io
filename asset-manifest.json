@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smit-6690/smit.github.io/static/css/main.5bec5856.css",
+    "main.js": "/smit-6690/smit.github.io/static/js/main.f7a2d3af.js",
+    "static/js/453.b05d8aa5.chunk.js": "/smit-6690/smit.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/smit-6690/smit.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/smit-6690/smit.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock09.avif": "/smit-6690/smit.github.io/static/media/mock09.8e29e3bff813d7caf2df.avif",
+    "static/media/mock8.png": "/smit-6690/smit.github.io/static/media/mock8.b547fa8874cf88044197.png",
+    "static/media/me_edited.jpg": "/smit-6690/smit.github.io/static/media/me_edited.11bca8fa138e0d9369b5.jpg",
+    "static/media/mock07.avif": "/smit-6690/smit.github.io/static/media/mock07.5a966cdd2fabbfd679db.avif",
+    "static/media/mock10.avif": "/smit-6690/smit.github.io/static/media/mock10.40a63fb7d7df90605a61.avif",
+    "index.html": "/smit-6690/smit.github.io/index.html",
+    "main.5bec5856.css.map": "/smit-6690/smit.github.io/static/css/main.5bec5856.css.map",
+    "main.f7a2d3af.js.map": "/smit-6690/smit.github.io/static/js/main.f7a2d3af.js.map",
+    "453.b05d8aa5.chunk.js.map": "/smit-6690/smit.github.io/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bec5856.css",
+    "static/js/main.f7a2d3af.js"
+  ]
+}
